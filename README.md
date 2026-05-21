@@ -36,11 +36,12 @@ class HilPatel:
             "🤖 Scalable AI Agents & Voice Bots",
             "🔗 LLM Orchestration & RAG Pipelines",
             "☁️  AWS Cloud Infrastructure for AI",
-            "⚡ Real-time Messaging Agents (SMS/WhatsApp)"
+            "⚡ Real-time Messaging Agents (SMS/WhatsApp)",
+            "🐧 Containerization & CI/CD Automation"
         ]
     
     def ask_me_about(self):
-        return ["AI Agents", "LLMs", "Reinforcement Learning", "AWS", "Node.js"]
+        return ["AI Agents", "LLMs", "Reinforcement Learning", "AWS", "Node.js","Docker", "CI/CD"]
 ```
 
 ---
@@ -81,6 +82,7 @@ class HilPatel:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏭 **[Generic AI Agent Platform](https://github.com/IamHil)** | Production platform for creating/managing voice, chat & automation agents | Node.js, Next.js, AWS, Bedrock |
+| 🐧 **[DevOps Linux Pipeline](https://github.com/IamHil/devops-linux-project)** | Containerized Flask app with Bash automation, NGINX proxy, & GitHub Actions CI/CD |Linux, Docker, Bash, CI/CD |
 | 🎮 **[Deep Q-Learning Agent](https://github.com/IamHil/Deep-Q-Learning)** | DQN agent mastering Atari Assault with custom NN architecture | PyTorch, Gymnasium, Python |
 | 🧵 **[A3C Game AI](https://github.com/IamHil/A3C-using-Python)** | Async Advantage Actor-Critic model with parallel training | TensorFlow, Gymnasium |
 | 🧬 **[LLM Fine-tuning](https://github.com/IamHil/LLM-finetuning)** | Fine-tuned Transformer with 15% BLEU score improvement on summarization | HuggingFace, PyTorch |
